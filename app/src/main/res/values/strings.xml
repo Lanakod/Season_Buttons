@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Season Buttons</string>
+    <string name="winter">Зима</string>
+    <string name="autumn">Осень</string>
+    <string name="spring">Весна</string>
+    <string name="summer">Лето</string>
+    <string name="developer">Разработчик Малахов М.А.</string>
+    <string name="exit">Выход</string>
+    <string name="image">Время года</string>
+</resources>
